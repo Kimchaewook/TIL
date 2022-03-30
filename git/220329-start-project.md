@@ -26,9 +26,9 @@
 
 11. git add: 작업했던 내용을 stage area에 올린다
 
-12. git commit: 
+12. git commit: 코드 변화를 기록하는것 
 
-13. git push:
+13. git push: remote repository에 반영을 한다
 
 13. git init: project 폴더 초기화
 
