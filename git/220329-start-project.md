@@ -12,15 +12,15 @@
 
 5. rm : directory 삭제
 
-6. rm -r : directory 강제 삭제
+6. rm -rf : directory 강제 삭제 
 
 7. pwd : 현재 directory 위치 확인
 
 8. ls : 현재 directory에 있는 파일및폴더 목록
 
 9. mv : 
-	1. ( mv HTML-css HTML-javascript )이름을 변경할 수 있다
-	2. 파일 옮기기 및 폴더 옮기기
+- ( mv HTML-css HTML-javascript )이름을 변경할 수 있다
+- 파일 옮기기 및 폴더 옮기기
 
 10. git status : source code 상태 확인
 
